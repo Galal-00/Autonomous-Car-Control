@@ -69,6 +69,6 @@ Time: hh:mm:ss
 - **DC Motor:** Uses GPIO for direction control, and PWM for speed control 🚦.
 - **Stepper Motor:** Uses GPIO for angle control 🔄.
 - **Servo Motor:** Uses PWM for angle control 🔄.
-- **Dashboard Display:** Uses GPIO to write messages. Timer is used to calculate the time 🕰️.
+- **Dashboard Display:** Uses GPIO to display the messages. Timer is used to calculate the time 🕰️.
 - **Simulation:** Proteus 🤖.
 - **Code Editor:** Microchip Studio 👨‍💻.
